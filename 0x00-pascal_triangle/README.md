@@ -1,0 +1,1 @@
+Pascal's triangle formula is (n+1)C(r) = (n)C(r - 1) + (n)C(r). It means that the number of ways to choose r items out of a total of n + 1 items is the same as adding the number of ways to choose r - 1 items out of a total of n items and the number of ways to choose r items out of a total of n items.
